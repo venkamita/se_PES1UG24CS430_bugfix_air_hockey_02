@@ -20,3 +20,6 @@ Started with a broken Pygame Air Hockey game that had one deliberate bug and thr
 
 ### Bonus
 - **R key restart (`main.py`):** The README mentioned pressing R to restart but it was never wired up — fixed.
+### videos
+- **after fixing bug:** https://drive.google.com/file/d/1Xq7ubWTPvuM2bTZnQ1h-OzowjBUTS_fc/view?usp=sharing
+- **before fixing bug:** https://drive.google.com/file/d/1Ndy9I7eFh2g5Dmv5fcc7_udp3_Kd-jTC/view?usp=sharing
